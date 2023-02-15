@@ -1,0 +1,19 @@
+h1 {
+color:blue;
+text-align:left;
+}
+.square{
+text-align:center;
+color: red;
+width:150px;
+height:150px;
+background-color:blue;
+padding : 20px;
+font-family:Arial;
+font-size:40px;
+border: 5px solid red;
+
+}
+body{
+text-align:center;
+}
